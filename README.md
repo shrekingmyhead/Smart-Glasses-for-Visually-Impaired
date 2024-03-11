@@ -4,3 +4,4 @@ This project hopes to improve the quality of life for those who suffer from vis
 
 ## Links:
 - [PPT](https://www.canva.com/design/DAF_NoWUpu0/HDrL0xVAEew0XCDKkPs84Q/view?utm_content=DAF_NoWUpu0&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- [Design] (https://a360.co/3IRWaFf)

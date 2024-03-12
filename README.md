@@ -31,6 +31,8 @@ Focuses on object detection systems3.
 
 Visual impairment can significantly impact an individual's quality of life by limiting their ability to perform daily tasks independently. While traditional assistive devices such as canes and guide dogs offer some assistance, advancements in technology have opened up new possibilities. Smart glasses equipped with various sensors, cameras, and augmented reality (AR) capabilities can provide real-time assistance to visually impaired individuals, enhancing their mobility and independence.
 
+# KEY FEATURES
+
 1.Camera and Image Processing:
 The smart glasses are equipped with a high-resolution camera that captures the user's surroundings.
 Advanced image processing algorithms analyze the captured images to identify objects, obstacles, text, and people in the environment

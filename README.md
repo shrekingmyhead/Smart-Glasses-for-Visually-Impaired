@@ -33,39 +33,39 @@ Visual impairment can significantly impact an individual's quality of life by li
 
 # KEY FEATURES
 
-1.Camera and Image Processing:
+1. Camera and Image Processing:
 The smart glasses are equipped with a high-resolution camera that captures the user's surroundings.
 Advanced image processing algorithms analyze the captured images to identify objects, obstacles, text, and people in the environment
 
-2.Object Recognition and Navigation:
+2. Object Recognition and Navigation:
 Utilizing machine learning algorithms, the smart glasses can recognize common objects, landmarks, and signage.
 A navigation system provides auditory or haptic feedback to guide the user through their surroundings, alerting them to obstacles and hazards in real-time.
 
-3.Text-to-Speech and Optical Character Recognition (OCR):
+3. Text-to-Speech and Optical Character Recognition (OCR):
 The smart glasses feature OCR technology that converts printed text into digital text.
 A text-to-speech engine reads the converted text aloud to the user, enabling them to access information from signs, documents, and screens.
 
-4.Augmented Reality (AR) Overlay:
+4. Augmented Reality (AR) Overlay:
 AR overlays provide contextual information about the user's surroundings, such as nearby points of interest, businesses, and public transportation options.
 Virtual markers and audio cues help users locate objects and navigate indoor and outdoor environments more efficiently.
 
-5.Connectivity and Integration:
+5. Connectivity and Integration:
 The smart glasses are integrated with a mobile app or companion device that allows users to customize settings, access additional features, and receive updates.
 Connectivity options such as Bluetooth and Wi-Fi enable seamless integration with smartphones, navigation apps, and other assistive technologies.
 
-6.Comfort and Accessibility:
+6. Comfort and Accessibility:
 Ergonomic design and lightweight materials ensure comfort during extended wear.
 Adjustable settings and customizable features accommodate individual preferences and visual impairments.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Team members:
-DURANJIT BHARADWAJ-ENG21CS0126
-DIVYANSHU-ENG21CS0124
-DEBARAJ BASAK-ENG21CS0108
-Priyanka Datta - ENG21CS0309
-DIPTO DEY - ENG21CS0118
-BHUVAN VINAYAK BHAT-ENG21CS0081
-Shourya Garg-ENG21CS0379
+- DURANJIT BHARADWAJ-ENG21CS0126
+- DIVYANSHU-ENG21CS0124
+- DEBARAJ BASAK-ENG21CS0108
+- Priyanka Datta - ENG21CS0309
+- DIPTO DEY - ENG21CS0118
+- BHUVAN VINAYAK BHAT-ENG21CS0081
+- Shourya Garg-ENG21CS0379
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Links:

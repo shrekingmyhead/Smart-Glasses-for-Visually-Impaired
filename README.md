@@ -62,10 +62,10 @@ Adjustable settings and customizable features accommodate individual preferences
 - DURANJIT BHARADWAJ-ENG21CS0126
 - DIVYANSHU-ENG21CS0124
 - DEBARAJ BASAK-ENG21CS0108
-- Priyanka Datta - ENG21CS0309
+- PRIYANKA DATTA - ENG21CS0309
 - DIPTO DEY - ENG21CS0118
 - BHUVAN VINAYAK BHAT-ENG21CS0081
-- Shourya Garg-ENG21CS0379
+- SHOURYA GARG-ENG21CS0379
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Links:
